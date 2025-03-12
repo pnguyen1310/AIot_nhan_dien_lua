@@ -54,6 +54,3 @@ python dudoan.py
 - Nếu dùng Arduino, cần kiểm tra cổng Serial (`COMx` trên Windows hoặc `/dev/ttyUSBx` trên Linux).
 - Kiểm tra kết nối IP Camera trước khi chạy dự đoán.
 - Nếu có lỗi về `torch.hub.load`, thử chạy `pip install ultralytics --upgrade`.
-
-Chúc bạn thành công!
-
